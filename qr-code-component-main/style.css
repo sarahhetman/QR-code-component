@@ -1,0 +1,38 @@
+body {
+    /*background-color: hsl(220, 15%, 55%);*/
+    background-color: #d6e1ee;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+img {
+    border-radius: 25px;
+    width: 90%;
+}
+
+.container{
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    border-radius: 25px;
+    padding-top: 20px;
+    align-content: center;
+    height: auto;
+}
+
+.header {
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.paragraph{
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 40px;
+}
